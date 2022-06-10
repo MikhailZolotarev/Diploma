@@ -1,5 +1,6 @@
 # Diploma
 Repository contains a code for the Diploma paper "Informational Cascades and Vaccination incentives" of ICEF student Mikhail Zolotarev
+
 Abstract: 
 This paper builds a model describing vaccination dynamics in which the agents get heterogeneous information. 
 There is a hidden state of the world indicating the effectiveness of the vaccine. 
